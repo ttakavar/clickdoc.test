@@ -1,11 +1,12 @@
 {
-  "name": "clickdoc.test",
-  "version": "1.0.0",
-  "description": "CGM Cypress Test",
-  "devDependencies": {
-    "cypress": "^9.7.0"
-  },
-  "scripts": {},
-  "author": "Tannaz Takavar",
-  "license": "ISC"
+	"name": "clickdoc.test",
+	"version": "1.0.0",
+	"description": "CGM Cypress Test",
+	"devDependencies": {
+		"cypress": "^9.7.0",
+		"prettier": "2.6.2"
+	},
+	"scripts": {},
+	"author": "Tannaz Takavar",
+	"license": "ISC"
 }
